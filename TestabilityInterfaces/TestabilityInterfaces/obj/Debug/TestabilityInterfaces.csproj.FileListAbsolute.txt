@@ -1,0 +1,6 @@
+c:\users\mchylinx\documents\visual studio 2015\Projects\TestabilityInterfaces\TestabilityInterfaces\bin\Debug\TestabilityInterfaces.exe.config
+c:\users\mchylinx\documents\visual studio 2015\Projects\TestabilityInterfaces\TestabilityInterfaces\bin\Debug\TestabilityInterfaces.exe
+c:\users\mchylinx\documents\visual studio 2015\Projects\TestabilityInterfaces\TestabilityInterfaces\bin\Debug\TestabilityInterfaces.pdb
+c:\users\mchylinx\documents\visual studio 2015\Projects\TestabilityInterfaces\TestabilityInterfaces\obj\Debug\TestabilityInterfaces.csprojResolveAssemblyReference.cache
+c:\users\mchylinx\documents\visual studio 2015\Projects\TestabilityInterfaces\TestabilityInterfaces\obj\Debug\TestabilityInterfaces.exe
+c:\users\mchylinx\documents\visual studio 2015\Projects\TestabilityInterfaces\TestabilityInterfaces\obj\Debug\TestabilityInterfaces.pdb
